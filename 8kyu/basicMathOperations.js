@@ -40,5 +40,3 @@ function basicOp(operation, value1, value2)
     return value1 / value2
   }
 }
-
-996 similar code variations are group
